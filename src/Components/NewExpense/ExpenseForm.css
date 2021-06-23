@@ -22,5 +22,7 @@
   }
   
   .new-expense__actions {
+    padding-top: 0.5rem;
     text-align: right;
   }
+
